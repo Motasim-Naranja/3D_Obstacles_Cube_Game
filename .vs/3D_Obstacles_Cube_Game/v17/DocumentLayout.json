@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\3D_Obstacles_Cube_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|E:\\unity\\3D_Obstacles_Cube_Game\\assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|E:\\unity\\3D_Obstacles_Cube_Game\\assets\\scenes\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|e:\\unity\\3d_obstacles_cube_game\\assets\\scenes\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|e:\\unity\\3d_obstacles_cube_game\\assets\\scenes\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|e:\\unity\\3d_obstacles_cube_game\\assets\\scenes\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F95F23-DBD2-D5B7-56F6-5F0844987C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAWzMzMzAwswAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:32:56.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\StartGame.cs",
+              "ToolTip": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\StartGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:29:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Credits.cs",
+              "DocumentMoniker": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\Credits.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Credits.cs",
+              "ToolTip": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\Credits.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Credits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:10:18.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelComplete.cs",
+              "DocumentMoniker": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\LevelComplete.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\LevelComplete.cs",
+              "ToolTip": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\LevelComplete.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\LevelComplete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:35:11.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\unity\\3D_Obstacles_Cube_Game\\Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:34:41.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
