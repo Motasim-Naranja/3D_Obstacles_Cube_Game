@@ -69,6 +69,16 @@ BSCS Student | Game Dev Enthusiast
 
 ---
 
+## 📦 Download Game (No Unity Needed)
+
+▶️ [**Download Windows Build (.zip/.rar)**](https://github.com/Motasim-Naranja/3D_Obstacles_Cube_Game/releases/latest)
+
+- Unzip the folder
+- Open the `.exe` file
+- Enjoy the game!
+
+---
+
 ## 🔖 License
 
 This is a personal learning project — feel free to explore or build upon it.
